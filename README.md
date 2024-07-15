@@ -10,7 +10,7 @@ Venkaiah72
 
 👯 I’m looking to collaborate on Automation Frameworks, testNG
 
-👨‍💻 All of my projects are available at @Venkaiah_Kotakonda
+👨‍💻 All of my projects are available at @https://github.com/Venkaiah72
 
 💬 Ask me about Selenium, Java, Functional Testing, Postman
 
