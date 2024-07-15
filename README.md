@@ -7,7 +7,7 @@ Venkaiah72
 
 🔭 I’m currently working on Selenium, Cucumber, Hybrid Framework
 
-🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation                                 ![Git](https://github.com/user-attachments/assets/d70be07d-8386-4c4e-bf7d-a7b89a749d01)
+🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation                               
 
 
 👯 I’m looking to collaborate on Automation Frameworks, testNG
@@ -23,9 +23,10 @@ Venkaiah72
 ⚡ Fun fact Office hero alert: I conquered two billing web apps, cutting manual work by 60%. Basically, I'm the automation guru around here, turning clicks into code laughs! 😂
 
 Connect with me:
-
+ https://www.linkedin.com/in/venkaiah-kotakonda
 
 Languages and Tools:
 git html5 java jenkins oracle postman selenium
+ 
 
-
+![Git](https://github.com/user-attachments/assets/d70be07d-8386-4c4e-bf7d-a7b89a749d01)
