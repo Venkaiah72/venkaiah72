@@ -1,4 +1,5 @@
 Hi, I'm Venkaiah Kotakonda,
+
 A passionate, Versatile Tester, Balancing Manual & Automation
 coding
 
@@ -6,7 +7,8 @@ Venkaiah72
 
 🔭 I’m currently working on Selenium, Cucumber, Hybrid Framework
 
-🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation
+🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation                             ![image](https://github.com/user-attachments/assets/bd6aab94-8584-4ac6-954a-da5f7faaa148)
+
 
 👯 I’m looking to collaborate on Automation Frameworks, testNG
 
