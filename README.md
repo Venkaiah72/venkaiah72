@@ -7,7 +7,7 @@ Venkaiah72
 
 🔭 I’m currently working on Selenium, Cucumber, Hybrid Framework
 
-🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation                             ![image](https://github.com/user-attachments/assets/bd6aab94-8584-4ac6-954a-da5f7faaa148)
+🌱 I’m currently learning Continuous Integration, Framework Designing, API Automation                                 ![Git](https://github.com/user-attachments/assets/d70be07d-8386-4c4e-bf7d-a7b89a749d01)
 
 
 👯 I’m looking to collaborate on Automation Frameworks, testNG
